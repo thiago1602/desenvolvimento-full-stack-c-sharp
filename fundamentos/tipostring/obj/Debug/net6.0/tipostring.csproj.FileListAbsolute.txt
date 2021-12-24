@@ -1,0 +1,15 @@
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tipostring\bin\Debug\net6.0\tipostring.exe
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tipostring\bin\Debug\net6.0\tipostring.deps.json
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tipostring\bin\Debug\net6.0\tipostring.runtimeconfig.json
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tipostring\bin\Debug\net6.0\tipostring.dll
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tipostring\bin\Debug\net6.0\ref\tipostring.dll
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tipostring\bin\Debug\net6.0\tipostring.pdb
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tipostring\obj\Debug\net6.0\tipostring.csproj.AssemblyReference.cache
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tipostring\obj\Debug\net6.0\tipostring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tipostring\obj\Debug\net6.0\tipostring.AssemblyInfoInputs.cache
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tipostring\obj\Debug\net6.0\tipostring.AssemblyInfo.cs
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tipostring\obj\Debug\net6.0\tipostring.csproj.CoreCompileInputs.cache
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tipostring\obj\Debug\net6.0\tipostring.dll
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tipostring\obj\Debug\net6.0\ref\tipostring.dll
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tipostring\obj\Debug\net6.0\tipostring.pdb
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tipostring\obj\Debug\net6.0\tipostring.genruntimeconfig.cache

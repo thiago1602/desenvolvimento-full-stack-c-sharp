@@ -1,0 +1,15 @@
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\conversoestipos\bin\Debug\net6.0\conversoestipos.exe
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\conversoestipos\bin\Debug\net6.0\conversoestipos.deps.json
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\conversoestipos\bin\Debug\net6.0\conversoestipos.runtimeconfig.json
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\conversoestipos\bin\Debug\net6.0\conversoestipos.dll
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\conversoestipos\bin\Debug\net6.0\ref\conversoestipos.dll
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\conversoestipos\bin\Debug\net6.0\conversoestipos.pdb
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\conversoestipos\obj\Debug\net6.0\conversoestipos.csproj.AssemblyReference.cache
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\conversoestipos\obj\Debug\net6.0\conversoestipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\conversoestipos\obj\Debug\net6.0\conversoestipos.AssemblyInfoInputs.cache
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\conversoestipos\obj\Debug\net6.0\conversoestipos.AssemblyInfo.cs
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\conversoestipos\obj\Debug\net6.0\conversoestipos.csproj.CoreCompileInputs.cache
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\conversoestipos\obj\Debug\net6.0\conversoestipos.dll
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\conversoestipos\obj\Debug\net6.0\ref\conversoestipos.dll
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\conversoestipos\obj\Debug\net6.0\conversoestipos.pdb
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\conversoestipos\obj\Debug\net6.0\conversoestipos.genruntimeconfig.cache

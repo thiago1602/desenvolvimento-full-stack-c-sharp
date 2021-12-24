@@ -1,0 +1,5 @@
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\datetime\obj\Debug\net6.0\datetime.csproj.AssemblyReference.cache
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\datetime\obj\Debug\net6.0\datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\datetime\obj\Debug\net6.0\datetime.AssemblyInfoInputs.cache
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\datetime\obj\Debug\net6.0\datetime.AssemblyInfo.cs
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\datetime\obj\Debug\net6.0\datetime.csproj.CoreCompileInputs.cache
