@@ -78,7 +78,10 @@ namespace Operadores
         /* Operadores Lógicos */
 
         var ativo = true;
-        Console.WriteLine(!ativo);
+        var m = 3;
+        var n = 5;
+
+        Console.WriteLine(!a > b);
 
 
        }
