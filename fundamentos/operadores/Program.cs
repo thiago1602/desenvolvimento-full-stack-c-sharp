@@ -81,8 +81,11 @@ namespace Operadores
         var m = 3;
         var n = 5;
 
-        Console.WriteLine(!a > b);
+        /* Operador AND, só é v quando tudo é v */
+        Console.WriteLine(ativo == true && a > b);
 
+        /* Operador or, é f quando tudo é f */
+        Console.WriteLine(ativo || true && a > b);
 
        }
    }

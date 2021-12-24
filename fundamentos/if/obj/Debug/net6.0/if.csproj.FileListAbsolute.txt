@@ -1,0 +1,15 @@
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\if\bin\Debug\net6.0\if.exe
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\if\bin\Debug\net6.0\if.deps.json
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\if\bin\Debug\net6.0\if.runtimeconfig.json
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\if\bin\Debug\net6.0\if.dll
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\if\bin\Debug\net6.0\ref\if.dll
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\if\bin\Debug\net6.0\if.pdb
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\if\obj\Debug\net6.0\if.csproj.AssemblyReference.cache
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\if\obj\Debug\net6.0\if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\if\obj\Debug\net6.0\if.AssemblyInfoInputs.cache
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\if\obj\Debug\net6.0\if.AssemblyInfo.cs
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\if\obj\Debug\net6.0\if.csproj.CoreCompileInputs.cache
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\if\obj\Debug\net6.0\if.dll
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\if\obj\Debug\net6.0\ref\if.dll
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\if\obj\Debug\net6.0\if.pdb
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\if\obj\Debug\net6.0\if.genruntimeconfig.cache
