@@ -1,0 +1,23 @@
+﻿@using Thiago.TesteASPNETMVC.Web.Models
+@model Pessoa
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<br />
+<br />
+<p>Digite seu nome: </p>
+@using (Html.BeginForm("Index", "Teste", FormMethod.Post))
+{
+    @Html.LabelFor(p -> p.Nome)
+    @Html.TextBoxFor(p -> p.Nome, new { id = "txbNome" })
+    @Html.LabelFor(p -> p.Idade)
+    @Html.TextBoxFor(p -> p.Idade)
+    @Html.LabelFor(p -> p.Endereco)
+    @Html.TextBoxFor(p -> p.Endereco)
+
+    <input type="submit" value="Enviar" />
+}
+
+

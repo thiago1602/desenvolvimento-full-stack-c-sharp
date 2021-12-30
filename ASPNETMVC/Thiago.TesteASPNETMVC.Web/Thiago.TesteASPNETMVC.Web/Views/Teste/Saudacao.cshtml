@@ -1,0 +1,12 @@
+﻿@using Thiago.TesteASPNETMVC.Web.Models
+@model Pessoa
+@{
+    ViewBag.Title = "Saudacao";
+}
+
+<h2>Saudacao</h2>
+
+<p>Olá, seja bem vindo @Model.Nome</p>
+@Html.Label("Idade: ") @Html.TextBoxFor(p -> p.Idade)
+@Html.Label("Endereco: ") @Html.TextBoxFor(p -> p.Endereco)
+
