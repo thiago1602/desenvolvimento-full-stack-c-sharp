@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using Thiago.TesteASPNETMVC.Web.Models;
 
 namespace Thiago.TesteASPNETMVC.Web.Controllers
 {
@@ -15,11 +16,9 @@ namespace Thiago.TesteASPNETMVC.Web.Controllers
         }
 
         [HttpPost]
-        public ActionResult Index(string nome)
+        public ActionResult Index(Pessoa p)
         {
-            
-            ViewBag.Mensagem = nome;
-            return View("Saudacao");
+            return View("Saudacao", p);
         }
 
     }
