@@ -1,0 +1,15 @@
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tratamento\bin\Debug\net6.0\tratamento.exe
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tratamento\bin\Debug\net6.0\tratamento.deps.json
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tratamento\bin\Debug\net6.0\tratamento.runtimeconfig.json
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tratamento\bin\Debug\net6.0\tratamento.dll
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tratamento\bin\Debug\net6.0\ref\tratamento.dll
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tratamento\bin\Debug\net6.0\tratamento.pdb
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tratamento\obj\Debug\net6.0\tratamento.csproj.AssemblyReference.cache
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tratamento\obj\Debug\net6.0\tratamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tratamento\obj\Debug\net6.0\tratamento.AssemblyInfoInputs.cache
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tratamento\obj\Debug\net6.0\tratamento.AssemblyInfo.cs
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tratamento\obj\Debug\net6.0\tratamento.csproj.CoreCompileInputs.cache
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tratamento\obj\Debug\net6.0\tratamento.dll
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tratamento\obj\Debug\net6.0\ref\tratamento.dll
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tratamento\obj\Debug\net6.0\tratamento.pdb
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\fundamentos\tratamento\obj\Debug\net6.0\tratamento.genruntimeconfig.cache
