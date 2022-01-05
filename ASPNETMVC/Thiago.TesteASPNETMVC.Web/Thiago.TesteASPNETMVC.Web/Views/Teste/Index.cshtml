@@ -11,11 +11,21 @@
 @using (Html.BeginForm("Index", "Teste", FormMethod.Post))
 {
     @Html.LabelFor(p -> p.Nome)
+<<<<<<< Updated upstream
     @Html.TextBoxFor(p -> p.Nome, new { id = "txbNome" })
     @Html.LabelFor(p -> p.Idade)
     @Html.TextBoxFor(p -> p.Idade)
     @Html.LabelFor(p -> p.Endereco)
     @Html.TextBoxFor(p -> p.Endereco)
+=======
+    @Html.EditorFor(p -> p.Nome, new { id = "txbNome" })
+    @Html.LabelFor(p -> p.Idade)
+    @Html.EditorFor(p -> p.Idade)
+    @Html.LabelFor(p -> p.Endereco)
+    @Html.EditorFor(p -> p.Endereco)
+    @Html.LabelFor(p -> p.Email)
+    @Html.EditorFor(p -> p.Email)
+>>>>>>> Stashed changes
 
     <input type="submit" value="Enviar" />
 }
