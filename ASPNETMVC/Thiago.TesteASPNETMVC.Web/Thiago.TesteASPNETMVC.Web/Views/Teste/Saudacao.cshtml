@@ -7,6 +7,12 @@
 <h2>Saudacao</h2>
 
 <p>Olá, seja bem vindo @Model.Nome</p>
+<<<<<<< Updated upstream
 @Html.Label("Idade: ") @Html.TextBoxFor(p -> p.Idade)
 @Html.Label("Endereco: ") @Html.TextBoxFor(p -> p.Endereco)
+=======
+@Html.Label(p -> p.Idade) @Html.TextBoxFor(p -> p.Idade)
+@Html.Label(p -> p.Endereco) @Html.TextBoxFor(p -> p.Endereco)
+@Html.Label(p -> p.Email) @Html.TextBoxFor(p -> p.Email)
+>>>>>>> Stashed changes
 
