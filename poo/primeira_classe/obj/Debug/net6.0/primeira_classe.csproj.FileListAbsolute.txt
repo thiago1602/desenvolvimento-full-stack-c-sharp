@@ -1,0 +1,15 @@
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\poo\primeira_classe\bin\Debug\net6.0\primeira_classe.exe
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\poo\primeira_classe\bin\Debug\net6.0\primeira_classe.deps.json
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\poo\primeira_classe\bin\Debug\net6.0\primeira_classe.runtimeconfig.json
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\poo\primeira_classe\bin\Debug\net6.0\primeira_classe.dll
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\poo\primeira_classe\bin\Debug\net6.0\ref\primeira_classe.dll
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\poo\primeira_classe\bin\Debug\net6.0\primeira_classe.pdb
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\poo\primeira_classe\obj\Debug\net6.0\primeira_classe.csproj.AssemblyReference.cache
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\poo\primeira_classe\obj\Debug\net6.0\primeira_classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\poo\primeira_classe\obj\Debug\net6.0\primeira_classe.AssemblyInfoInputs.cache
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\poo\primeira_classe\obj\Debug\net6.0\primeira_classe.AssemblyInfo.cs
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\poo\primeira_classe\obj\Debug\net6.0\primeira_classe.csproj.CoreCompileInputs.cache
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\poo\primeira_classe\obj\Debug\net6.0\primeira_classe.dll
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\poo\primeira_classe\obj\Debug\net6.0\ref\primeira_classe.dll
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\poo\primeira_classe\obj\Debug\net6.0\primeira_classe.pdb
+C:\Users\thiag\desenvolvimento-full-stack-c-sharp\poo\primeira_classe\obj\Debug\net6.0\primeira_classe.genruntimeconfig.cache
