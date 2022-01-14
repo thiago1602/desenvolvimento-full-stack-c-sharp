@@ -3,7 +3,12 @@
     "",
     "\\ASPNETMVC",
     "\\ASPNETMVC\\Thiago.TesteASPNETMVC.Web",
-    "\\ASPNETMVC\\Thiago.TesteASPNETMVC.Web\\Thiago.TesteASPNETMVC.Web"
+    "\\ASPNETMVC\\Thiago.TesteASPNETMVC.Web\\Thiago.TesteASPNETMVC.Web",
+    "\\Basico",
+    "\\Basico\\Csharp.Basico",
+    "\\Basico\\Csharp.Basico\\BoxingvsUmboxing",
+    "\\Basico\\Csharp.Basico\\OperadoresAritimeticos"
   ],
+  "SelectedNode": "\\Basico\\Csharp.Basico\\OperadoresAritimeticos\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
